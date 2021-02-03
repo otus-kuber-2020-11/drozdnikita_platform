@@ -17,4 +17,4 @@ works as expected, nothing to add really
 
 ## healthy frontend
 
-it required variables to added in the 'env' of pod manifest
+it required variables to added in the 'env' of pod manifest 
