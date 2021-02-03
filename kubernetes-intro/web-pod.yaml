@@ -17,7 +17,7 @@ spec:
     emptyDir: {}
   - name: web-drozd
   containers:
-    name: web-app
+  - name: web-app
     image: drozdnikita/drozd_web_app:1.0.0
     volumeMounts:
     - name: app
